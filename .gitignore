@@ -1,0 +1,7 @@
+.idea
+.dockerignore//
+.vscode/
+.readmes/
+.venv/
+img/
+static/
