@@ -4,3 +4,4 @@
 .readmes/
 .venv/
 static/
+app.py
